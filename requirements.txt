@@ -1,0 +1,11 @@
+streamlit
+langchain==0.3.0
+langchain-community==0.3.0
+langchain-groq==0.2.0
+langchain-text-splitters==0.3.0
+langchain-core==0.3.63
+sentence-transformers
+chromadb
+pypdf
+python-dotenv
+huggingface-hub
